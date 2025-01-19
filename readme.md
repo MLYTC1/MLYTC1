@@ -22,11 +22,17 @@
 **Languages and Tools::**
 <br>
 
+<div>
+  
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,react,django,bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,aws,postgresql,mysql,vscode,c)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwind,nodejs,figma,typescript,docker,python,cpp)](https://skillicons.dev)
-<br/>
 [![My Skills](https://skillicons.dev/icons?i=npm,pycharm,sqlite,threejs,vite,windows,pytorch)](https://skillicons.dev)
+
+</div>
+<br/>
+
+
 
 
 <br />
