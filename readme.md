@@ -10,7 +10,7 @@
     <li>😄 Pronouns: like a true gentleman, I’m here to code and conquer!</li>
     <li>⚡ Fun fact: When I’m not coding, you’ll find me hitting the gym</li>
     <br/>
-    <img  align="right"  alt="GIF" style="border-radius: 10px; margin-top: -200px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xrY2RlNzE5bHE4eDk1eTFhejN0Zm91Y3Z3dnFiZWdlcW5tODJ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" />
+    <img  align="right" width="450px"  alt="GIF" style="border-radius: 10px; margin-top: -0px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xrY2RlNzE5bHE4eDk1eTFhejN0Zm91Y3Z3dnFiZWdlcW5tODJ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" />
   </ul>
 
  <br>
