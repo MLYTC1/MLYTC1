@@ -23,11 +23,23 @@
 <br>
 
 <div>
-  
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,react,django,bootstrap)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,aws,postgresql,mysql,vscode,c)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwind,nodejs,figma,typescript,docker,python,cpp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=npm,pycharm,sqlite,threejs,vite,windows,pytorch)](https://skillicons.dev)
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,django,bootstrap" />
+  </a>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,aws,postgresql,mysql,vscode,c" />
+  </a>
+    <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,nodejs,figma,typescript,docker,python,cpp" />
+  </a>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,pycharm,sqlite,threejs,vite,windows,pytorch" />
+  </a>
+</p>
 
 </div>
 <br/>
