@@ -18,8 +18,7 @@
  <p align="left"> <img src="https://profile-counter.glitch.me/mlytc1/count.svg" alt="mlytc1" /> </p>
  
  </br>
-
-**Languages and Tools::**
+<h3>Languages and Tools:</h3>
 <br>
 
 <div>
@@ -27,7 +26,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,django,bootstrap" />
   </a>
-    <p align="center">
+    <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,aws,postgresql,mysql,vscode,c" />
   </a>
@@ -35,7 +34,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,nodejs,figma,typescript,docker,python,cpp" />
   </a>
-    <p align="center">
+    <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=npm,pycharm,sqlite,threejs,vite,windows,pytorch" />
   </a>
@@ -48,7 +47,9 @@
 
 
 <br />
-<img align="center"  alt="GIF" style="border-radius: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlytc1&hide=java,html,css&theme=radical" />
-<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api?username=mlytc1&show_icons=true&locale=en" alt="desphixs" /></p>
+  <img align="right"  alt="GIF" style="border-radius: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlytc1&hide=java,html,css&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mlytc1&show_icons=true&locale=en" alt="desphixs" />
+
+
 
 
