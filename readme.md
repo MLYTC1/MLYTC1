@@ -15,7 +15,8 @@
 
  <br>
 <h3>Profile Views</h3>
- <p align="left"> <img src="https://profile-counter.glitch.me/mlytc1/count.svg" alt="mlytc1" /> </p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MLYTC1&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
  
  </br>
 <h3>Languages and Tools:</h3>
