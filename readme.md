@@ -14,12 +14,12 @@
   </ul>
 
  <br>
-<h3>Profile Views</h3>
+<!-- <h3>Profile Views</h3>
 <p align="left">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MLYTC1&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/>
   </a>
-</p>
+</p> -->
 
 
  
